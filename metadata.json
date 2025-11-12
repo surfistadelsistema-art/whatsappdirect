@@ -1,5 +1,5 @@
 {
-  "name": "WhatsApp Auto-Redirect",
-  "description": "This application automatically redirects you to a specified WhatsApp link, providing a seamless user experience.",
+  "name": "WhatsApp Instant Redirect",
+  "description": "A simple application that provides an instant redirect to a WhatsApp link.",
   "requestFramePermissions": []
 }
